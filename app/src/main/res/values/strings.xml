@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">MathApp</string>
+
+    <!-- MENU -->
+
+    <!-- MESSAGE -->
+    <string name="input_empty">Campo vacío!</string>
+    <string name="result">Respuesta:</string>
+    <string name="ERR_GLOBAL">Lo sentimos. Ha ocurrido un error</string>
+
+    <!-- RUN BUTTON -->
+    <string name="btn_run_show">Mostrar</string>
+    <string name="btn_run_calculate">Calcular</string>
+    <string name="btn_run_determine">Determinar</string>
+    <string name="btn_run_check">Verificar</string>
+    <string name="btn_run_execute">Ejecutar</string>
+
+    <!-- CLEAR BUTTON -->
+    <string name="btn_clear">Limpiar</string>
+
+    <!-- HYPOTENUSE -->
+    <string name="title_hypotenuse">Hipotenusa/Triángulo</string>
+    <string name="description_hypotenuse">Calcule la hipotenusa de un triángulo rectángulo</string>
+    <string name="hick_c">Cateto A:</string>
+    <string name="hick_b">Cateto B:</string>
+
+    <!-- SCORE -->
+    <string name="header_score">Calificación</string>
+    <string name="title_score">Calificación</string>
+    <string name="description_score">Calificación de un estudiante universitario</string>
+    <string name="student">Alumno:</string>
+    <string name="score">Calificación:</string>
+    
+    <string name="bad">Malo</string>
+    <string name="normal">Regular</string>
+    <string name="good">Bueno</string>
+    <string name="excellent">Excelente</string>
+    <string name="ERR_score_out_range">El puntaje está fuera del rango (0 - 20)</string>
+    <string name="message_result1_score">La calificación de</string>
+    <string name="message_result2_score">es</string>
+    
+
+    <!-- EQUATION -->
+    <string name="header_equation">Ecuación cuadrática completa</string>
+    <string name="title_equation">Raíces en ecuación de segundo grado</string>
+    <string name="description_equation">Determina si una ecuación de segundo grado tiene solución en
+    números reales y que calcule sus raíces</string>
+    <string name="ERR_A_ZERO">El valor de "a" no puede ser cero</string>
+    <string name="no_solution">La ecuación no tiene solución con números reales</string>
+    <string name="incomplete_equation">La ecuación de segundo grado está incompleta. b y c deben ser mayor a cero.</string>
+
+    <!-- AREA -->
+    <string name="header_area">Área</string>
+    <string name="title_area">ÁREAS</string>
+    <string name="circle">Círculo</string>
+    <string name="triangle">Triángulo</string>
+    <string name="rectangle">Rectángulo</string>
+    <string name="radio">radio:</string>
+    <string name="base">base:</string>
+    <string name="height">altura:</string>
+
+    <!-- LeapYear -->
+    <string name="header_leapYear">Año Bisiesto</string>
+    <string name="title_leapYear">Año Bisiesto</string>
+    <string name="year">Año</string>
+    <string name="true_leapYear">es un año bisiesto.</string>
+    <string name="false_leapYear">no es un año bisiesto.</string>
+
+    <!-- BiggerNumber -->
+    <string name="header_biggerNumber">Número Mayor</string>
+    <string name="title_biggerNumber">Identifica el número mayor</string>
+    <string name="number1">Número:</string>
+    <string name="number2">Número:</string>
+    <string name="number3">Número:</string>
+
+    <!-- SumDigits -->
+    <string name="header_sumDigits">Sumar Dígitos</string>
+    <string name="title_sumDigits">Suma de Dígitos</string>
+    <string name="number">Número:</string>
+
+    <!-- PrimeNumber -->
+    <string name="header_primeNumber">Número Primo</string>
+    <string name="title_primeNumber">¿Número primo?</string>
+    <string name="true_primeNumber">es un número primo.</string>
+    <string name="false_primeNumber">no es un número primo.</string>
+
+    <!-- Factorial -->
+    <string name="header_factorial">Factorial</string>
+    <string name="title_factorial">Calcular factorial</string>
+</resources>
